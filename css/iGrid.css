@@ -1,0 +1,6 @@
+.tile  {
+	display: block;
+	position: absolute;
+	clear: none;
+	float: left;
+}
